@@ -1,0 +1,64 @@
+body {position : absolute;
+left : 30%;
+padding : 10px;
+margin: 5px;}
+
+.numLigne {
+   font-weight : bold;
+   margin-left : -30px;
+   }
+
+.lettrine {
+    font-weight : bold;
+    font-size : 25px;
+}
+
+.bdp
+{
+    position : absolute;
+    margin-left : 80%;
+}
+
+.hdp
+{
+    border-top:solid 1px black ;
+    width: 90%;
+    position : relative;
+    padding-top : 3%;
+    margin-left : -10%;
+}
+
+.ajout
+{
+   font-style :italic;
+}
+
+.indent 
+{
+    margin-left : 30px;
+}
+
+.comm 
+{
+ margin-left : 30px;
+ font-size : 10px;
+}
+
+.l
+{
+    display: inline-block;
+    position : inherit;
+    padding-top: 1%;
+    padding-bottom:1%;
+}
+
+
+h1
+{
+    padding-bottom : 20px;
+}
+
+h2 {
+    padding-bottom : 20px;
+    padding-left: 50px; 
+} 

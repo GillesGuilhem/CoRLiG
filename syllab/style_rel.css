@@ -1,0 +1,53 @@
+body{
+    position: absolute;
+    left: 30%;
+    padding: 10px;
+    margin: 5px;
+    font-size : 22px;
+}
+
+.front {
+    left: 30%;
+    right: 30%;
+    padding: 10px;
+    margin: 5px;
+    font-size : 22px;
+}
+
+.numLigne{
+    font-weight: bold;
+    margin-left: -30px;
+    font-size : 16px;
+}
+
+.rouge {
+    margin-left : -4px;
+    color : #bd3518;
+    font-style : normal;
+}
+
+.metLigne {
+   font-weight: bold;
+   font-size : 16px;
+}
+
+.syll {
+    margin-left : -4px;
+}
+
+.bold {
+    font-weight: bold;
+    margin-left : -4px;
+    color : red ;
+    font-style : normal;
+}
+
+
+.mot {
+    padding-left : 3px;
+    padding-right : 3px;
+}
+
+.paston {
+    background-color: orange;
+}
